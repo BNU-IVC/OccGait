@@ -56,3 +56,5 @@ Please cite the following paper if you find this useful in your research:
 
 **Note:**
 This dataset is only used for **ACADEMIC PURPOSES**, anyone can not use this dataset for anything that might be considered commercial use.
+
+For OccCASIA-B dataset, please refer to [OccludedGaitRecognition](https://github.com/YunjiePeng/OccludedGaitRecognition)
