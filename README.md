@@ -20,7 +20,7 @@ The OccGait is collected in an indoor gait recognition laboratory. There are 3 c
 #### 3. Examples of OccGait (RGB, Instance Segmentation with Mask2Former, and Silhouette)
 <img src="./assets/rgb_seg_sil_masked.gif" width = "810" height = "270"/>
 
-- The Directory Structure of OccGait Dataset (Silhouette64 & Original Segments)
+- The Directory Structure of OccGait Dataset
     ```
     001 (subject)
         CA01 (type)
