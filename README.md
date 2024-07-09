@@ -18,7 +18,7 @@ The OccGait is collected in an indoor gait recognition laboratory. There are 3 c
 <img src="./assets/occlusion_scenarios.png" width = "830" height = "360"/>
 
 #### 3. Examples of OccGait (RGB, Instance Segmentation with Mask2Former, and Silhouette)
-<img src="./assets/rgb_seg_sil.gif" width = "1620" height = "540"/>
+<img src="./assets/rgb_seg_sil.gif" width = "540" height = "1620"/>
 
 ## Download OccGait
 To obtain the OccGait dataset, all users are required to complete the following steps:
