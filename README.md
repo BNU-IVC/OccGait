@@ -23,9 +23,9 @@ The OccGait is collected in an indoor gait recognition laboratory. There are 3 c
 ## Download OccGait
 To obtain the OccGait dataset, all users are required to complete the following steps:
   1. Download and sign the latest agreement within this repository.
-  2. Use the organization's email and send a request with a signed agreement attached to BNU-IVC@outlook.com.
+  2. Use the organization's email and send a request with a signed agreement attached to OccGait@outlook.com.
   
-We will handle your requests within a week (**Occasionally, emails may be flagged as spam. If you haven't received a response within a week, please resend your mail from an alternate email address.**). In case you encounter any issues, please feel free to reach out to us via BNU-IVC@outlook.com. <br>
+We will handle your requests within a week (**Occasionally, emails may be flagged as spam. If you haven't received a response within a week, please resend your mail from an alternate email address.**). In case you encounter any issues, please feel free to reach out to us via OccGait@outlook.com. <br>
 
 ## GaitMoE
 Remained to be completed.
