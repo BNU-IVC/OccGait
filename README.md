@@ -15,7 +15,7 @@ The OccGait is collected in an indoor gait recognition laboratory. There are 3 c
 <img src="./assets/collection_process.png" width = "800" height = "370"/>
 
 #### 2.Diagram of 4 Types of Occlusion Scenarios
-<img src="./assets/occlusion_scenarios.png" width = "800" height = "370"/>
+<img src="./assets/occlusion_scenarios.png" width = "800" height = "360"/>
 
 <!-- #### Examples of OccGait (RGB vs. Segmentation with Mask2Former)
 <img src="./assets/all_v2.jpg" width = "600" height = "600"/>
