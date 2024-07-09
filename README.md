@@ -12,7 +12,7 @@ This is an official repository for "Occluded Gait Recognition with Mixture of Ex
 The OccGait is collected in an indoor gait recognition laboratory. There are 3 cameras (Cam1 of 0◦, Cam2 of 45◦, Cam3 of 315◦) with 1920 × 1080 resolution in a square area (8m x 8m). During the data collection process, the subjects follow a walking routine 1-2-3-4 as shown below. Overlapping camera views caused by the combination of 3 cameras and 4 walking directions are filtered out, and therefore gait sequences with 8 camera views are obtained. Four types of occluded scenarios are considered: None of Occlusion (Normal Walking as NM), Carrying Occlusion (CA), Crowd Occlusion (CR), and Static Occlusion (ST).
 
 #### 1. The Diagram of Data Collection Process
-<img src="./assets/collection_process.png" width = "780" height = "360"/>
+<img src="./assets/collection_process.png" width = "520" height = "240"/>
 
 #### 2. The Diagram of 4 Types of Occlusion Scenarios
 <img src="./assets/occlusion_scenarios.png" width = "830" height = "360"/>
