@@ -9,7 +9,7 @@ This is an official repository for "Occluded Gait Recognition with Mixture of Ex
 (3) Due to the privacy issue, OccGait currently only provides the **silhouette** version. Other data types, e.g., **pose**, remain to be considered. It is essential to note that it is **ACADEMIC USE ONLY**. 
 
 ## Introduction of OccGait
-The OccGait is collected in an indoor gait recognition laboratory. There are 3 cameras (Cam1 of 0◦, Cam2 of 45◦, Cam3 of 315◦) with 1920 × 1080 resolution in a square area (8m x 8m). During the data collection process, the subjects follow a walking routine 1-2-3-4 as shown below. Overlapping camera views caused by the combination of 3 cameras and 4 walking directions are filtered out, and therefore gait sequences with 8 camera views are obtained. To study the occlusion issue in practical applications, 4 types of occluded scenarios are carefully considered: None of Occlusion (Normal Walking as NM), Carrying Occlusion (CA), Crowd Occlusion (CR), and Static Occlusion (ST).
+The OccGait is collected in an indoor gait recognition laboratory. There are 3 cameras (Cam1 of 0◦, Cam2 of 45◦, Cam3 of 315◦) with 1920 × 1080 resolution in a square area (8m x 8m). During the data collection process, the subjects follow a walking routine 1-2-3-4 as shown below. Overlapping camera views caused by the combination of 3 cameras and 4 walking directions are filtered out, and therefore gait sequences with 8 camera views are obtained. Four types of occluded scenarios are considered: None of Occlusion (Normal Walking as NM), Carrying Occlusion (CA), Crowd Occlusion (CR), and Static Occlusion (ST).
 
 #### 1. The Diagram of Data Collection Process
 <img src="./assets/collection_process.png" width = "800" height = "370"/>
